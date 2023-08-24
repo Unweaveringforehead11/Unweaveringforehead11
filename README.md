@@ -15,9 +15,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chris-daniel-chabalala-20a919247/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lufuno-n-a26a9a18a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chris_daniel_chabalala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyperlfn" height="30" width="40" /></a>
-<a href="https://web.facebook.com/chris.daniel.9003888" target="_blank">
-  <img align="center" src="Facebook_Icon_URL" alt="Facebook" height="30" width="30" />
-</a>
+<a href="https://web.facebook.com/chris.daniel.9003888/">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
+</a> 
 
 </p>
 
