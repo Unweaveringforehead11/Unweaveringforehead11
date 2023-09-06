@@ -5,7 +5,7 @@
 </br>
 </br>
 
-- 👨‍💻 I’m currently a Information Technology In Software engineering Student
+- 📗 I’m currently a Information Technology In Software engineering Student
  
 - 🌱 I’m currently learning *Android & Software testing*
 
